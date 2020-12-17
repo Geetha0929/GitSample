@@ -1,0 +1,12 @@
+ Volume in drive C is Acer
+ Volume Serial Number is D89A-F168
+
+ Directory of C:\Users\smile\Desktop\GitProject
+
+17-12-2020  11:47    <DIR>          .
+17-12-2020  11:47    <DIR>          ..
+17-12-2020  11:08                22 index.html
+17-12-2020  11:07                 9 test1.txt
+17-12-2020  11:47                 0 test2.txt
+               3 File(s)             31 bytes
+               2 Dir(s)  42,137,333,760 bytes free
